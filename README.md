@@ -1,2 +1,3 @@
-# free-code-camp-progress
-Saving my solutions for the free Code Camp curriculum
+# full-stack-journey
+learning progress featuring odin foundational web development to pythonbackend coding
+
